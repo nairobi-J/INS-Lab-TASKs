@@ -1,0 +1,2 @@
+this file will test different AES encryption modes
+I will be using CBC, ECB, CFB, OFB modes

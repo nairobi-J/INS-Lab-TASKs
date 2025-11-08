@@ -1,0 +1,1 @@
+SHA2-256(secret_another.txt)= ce3720702c0d8a31a7b9b5013dbf79fe9a0b4e823ae4a135120adc4a9a40012e

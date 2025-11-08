@@ -1,0 +1,1 @@
+HMAC-MD5(secret.txt)= 84c848aec23c1ad8be04a0b48c87af11
